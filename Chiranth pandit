@@ -1,0 +1,14 @@
+tup1 = (22,3,45,4,2,4,2,56,890,1)
+print("On indexing")
+print(tup1[0]
+print(tup1[2]
+print(tup1[-2]
+print(tup1[-1]
+print(tup1[2+1]
+print("On slicing")
+print(tup1[1:4])
+print(tup1[:4})
+print(tup1{4:])
+print(tup1[:]
+print(tup1[::2]
+print(tup1[-4:-1])
